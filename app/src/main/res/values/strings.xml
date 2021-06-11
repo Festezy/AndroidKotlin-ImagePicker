@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gambar dari Galery</string>
+    <string name="imagepike">ImagePike</string>
+    <string name="chose_from_file">Chose From File</string>
 </resources>

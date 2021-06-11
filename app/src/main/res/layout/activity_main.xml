@@ -13,12 +13,13 @@
         android:layout_height="400dp"
         android:scaleType="center"
         android:layout_gravity="center"
-        app:srcCompat="@drawable/ic_baseline_image_24" />
+        app:srcCompat="@drawable/ic_baseline_image_24"
+        android:contentDescription="@string/imagepike" />
 
     <Button
         android:id="@+id/btnChoseImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Button" />
+        android:text="@string/chose_from_file" />
 </LinearLayout>
